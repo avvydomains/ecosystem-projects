@@ -1,0 +1,22 @@
+{
+  "name": "Avvy Domains",
+  "slug": "avvy-domains",
+  "tags": [
+    "infrastructure",
+    "tools",
+    "utility",
+  ],
+  "status": "live",
+  "highlight": "Providing .avax domain names on Avalanche.",
+  "logo": "/img/avvy-domains.png",
+  "website": "https://avvy.domains/",
+  "twitter": "https://twitter.com/avvydomains",
+  "telegram": "https://t.me/avvydomains",
+  "github": "https://github.com/avvydomains",
+  "discord": "https://discord.gg/mn5un9mUqq",
+  "summary": "Avvy Domains is the primary naming system on the Avalanche network, providing .avax domains to Avalanche users. The project aims to improve user experience across all subnets on the Avalanche network.",
+  "docs": "https://avvy.domains/docs",
+  "cmc": "",
+  "date": "2022-06-01",
+  "token": ""
+}
